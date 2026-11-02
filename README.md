@@ -7,14 +7,14 @@
 目标：让电脑能写 Python，并成功调用一次大模型。
 
 ### 已完成
-- [ ] 装好 Python
-- [ ] 装好 VS Code
-- [ ] 装好 Git
-- [ ] 注册 GitHub
-- [ ] 注册硅基流动，拿到 API Key
-- [ ] 跑通 `hello.py`
-- [ ] 跑通 `first_call.py`
-- [ ] 推到 GitHub
+- [x] 装好 Python
+- [x] 装好 VS Code
+- [x] 装好 Git
+- [x] 注册 GitHub
+- [x] 注册硅基流动，拿到 API Key
+- [x] 跑通 `hello.py`
+- [x] 跑通 `first_call.py`
+- [x] 推到 GitHub
 
 ## 怎么运行
 
