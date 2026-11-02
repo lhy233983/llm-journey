@@ -16,14 +16,11 @@
 - [x] 跑通 `first_call.py`
 - [x] 推到 GitHub
 
-## 怎么运行
+## Day 2：多轮对话
 
-```bash
-pip install -r requirements.txt
-python hello.py
-python first_call.py
-```
+- [x] 跑通 `chat_cli.py`
+- [x] 验证上下文记忆
+- [x] 理解 messages 列表就是「记忆」
 
-## 踩过的坑
+学到：模型本身不记事，每次请求都把历史一起发过去。
 
-（每解决一个报错，就在这里记一行）
